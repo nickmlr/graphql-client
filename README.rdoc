@@ -1,0 +1,4 @@
+== README
+
+rvm 2.3.1@graphql-client
+webpack --config webpack.config.js --watch --colors
